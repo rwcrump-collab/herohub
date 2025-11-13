@@ -7,6 +7,8 @@ gallery = [
     {"name": "Batman", "species": "Human", "image": "batman.jpg"},
     {"name": "Robin", "species": "Human", "image": "robin.jpg"},
     {"name": "Batcow", "species": "Bovine", "image": "batcow.jpg"}
+    {"name": "Spiderman", "species": "Human", "image": "Spiderman.jpg"},
+    {"name": "Charles Xavier", "species": "Human", "image": "charles-xavier.jpg"}
 ]
 
 @app.route('/')
