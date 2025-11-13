@@ -6,7 +6,8 @@ app = Flask(__name__)
 gallery = [
     {"name": "Batman", "species": "Human", "image": "batman.jpg"},
     {"name": "Robin", "species": "Human", "image": "robin.jpg"},
-    {"name": "Spiderman", "species": "Human", "image": "Spiderman.jpg"}
+    {"name": "Spiderman", "species": "Human", "image": "Spiderman.jpg"},
+    {"name": "Charles Xavier", "species": "Human", "image": "charles-xavier.jpg"}
 ]
 
 @app.route('/')
