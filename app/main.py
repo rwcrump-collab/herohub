@@ -5,7 +5,8 @@ app = Flask(__name__)
 # Pet gallery data: image filenames must match those in the images/ folder
 gallery = [
     {"name": "Batman", "species": "Human", "image": "batman.jpg"},
-    {"name": "Robin", "species": "Human", "image": "robin.jpg"}
+    {"name": "Robin", "species": "Human", "image": "robin.jpg"},
+    {"name": "Charles Xavier", "species": "Human", "image": "charles-xavier.jpg"}
 ]
 
 @app.route('/')
