@@ -93,7 +93,7 @@ For more detailed information about using the gallery feature, see [docs/gallery
 
 ## License
 
-This project is open source. Please check the repository for license information.
+This project is licensed via the Unlicense license. Please see [LICENSE](LICENSE).
 
 ## Questions or Issues?
 
@@ -103,3 +103,4 @@ This project is open source. Please check the repository for license information
 ---
 
 Built with ❤️ using Flask
+
